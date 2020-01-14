@@ -1,1 +1,1 @@
-# Lesson2-While-and-For
+# Python-lesson2-While-and-For
